@@ -4,7 +4,6 @@
 
 /**
  * main - This is an if function
- *
  * Return: Always 0 (Success
  */
 
