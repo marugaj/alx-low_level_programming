@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - This is going to be a putchar function
+ * main - This is described as a putchar function
  * return: Always 0 (Success)
 */
 
@@ -10,10 +10,12 @@ int main(void)
 	char c;
 
 	c = 'a';
-	while
-		(c <= 'z')
+	for
+		(c = 'a');
+		(c <= 'z');
+		(c++);
 			putchar (c);
-		c++;
+
 	putchar ('\n');
 	return (0);
 }
