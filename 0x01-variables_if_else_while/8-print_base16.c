@@ -13,6 +13,7 @@ int main(void)
 
 	e = 'a';
 	y = '0';
+
 	while
 		(y < 10) {
 			putchar(y + '0');
