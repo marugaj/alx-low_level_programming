@@ -3,10 +3,10 @@
 /**
  * main - Entry point
  * Return: If 0 (Success)
-*/
+ */
 
 int main(void)
-
+{
 	int g;
 
 	for (g = 0; g < 10; g++)
