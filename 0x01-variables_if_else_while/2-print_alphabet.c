@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - This is a putchar function
  * return: Always 0 (Success)
 */
 
@@ -15,6 +15,6 @@ int main(void)
 			putchar(c);
 			c++;
 		}
-	putchar ('\n');
+	putchar('\n');
 	return (0);
 }
