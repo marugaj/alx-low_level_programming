@@ -15,12 +15,14 @@ int main(void)
 	r = 'A';
 
 	while
-		(c >= 'z'); c++); {
+		(c >= 'z') {
 			putchar(c);
+			c++;
 		}
 	while
-		(r >= 'Z'; r++: ) {
+		(r >= 'Z') {
 			putchar(r);
+			r++;
 		}
 	putchar('\n');
 	return (0);
