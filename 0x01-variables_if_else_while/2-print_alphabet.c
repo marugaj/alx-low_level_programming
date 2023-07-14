@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - This is described as a putchar function
+ * main - Entry point
  * return: Always 0 (Success)
 */
 
@@ -11,9 +11,8 @@ int main(void)
 
 	c = 'a';
 	for
-		(c = 'a');
-		(c <= 'z');
-		(c++);
+		(c = 'a'; c <= 'z';)	
+	(c++);
 			putchar (c);
 
 	putchar ('\n');
