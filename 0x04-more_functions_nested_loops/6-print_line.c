@@ -1,4 +1,4 @@
-#insert "main.h"
+#include "main.h"
 
 /**
  * print_line - this draws a straight line 
