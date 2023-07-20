@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - this draws a straight line 
+ * print_line - this draws a straight line
  * @n: the number of lines to draw
  * Return: empty
  */
