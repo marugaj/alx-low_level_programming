@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_prime_number - Function that returns when a value is prime numbers
+ * is_prime_number - Function returns when value is a prime number
  * check_prime - This checks if number is a prime value
  * @n: The number to be checked
  * @i: The number of iteration times
