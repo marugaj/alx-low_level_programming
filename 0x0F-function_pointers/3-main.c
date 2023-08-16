@@ -1,4 +1,4 @@
-#include "3-main.c"
+#include "3-calc.h"
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -9,7 +9,7 @@
  * Return: Always 0
  */
 
-int main(int _attribute_((_unused_)) argc, char *argv[])
+int main(int _attribute_((_unused_)) argc , (char *argv[])
 {
 	int num1, num2;
 	char *op;
