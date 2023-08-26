@@ -10,13 +10,13 @@ int main(void)
 {
     int r;
 
-    r = is_palindrome("level");
+    r = _abs(-1);
     printf("%d\n", r);
-    r = is_palindrome("redder");
+    r = _abs(0);
     printf("%d\n", r);
-    r = is_palindrome("test");
+    r = _abs(1);
     printf("%d\n", r);
-    r = is_palindrome("step on no pets");
+    r = _abs(-98);
     printf("%d\n", r);
     return (0);
 }
